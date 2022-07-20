@@ -1,5 +1,5 @@
 ### Hi there! 💖
-I'm Stefanie Lima 🇧🇷. I'm Front-End Developer and currently I'm working at [Escale](https://escale.com.br/).
+I'm Stefanie Lima 🇧🇷. I'm Front-End Developer and currently I'm working at [QuintoAndar](https://quintoandar.com.br/).
 
 In my free time I like to watch movies and series 📺, to read books 📚 and to draw something ✍️
 
